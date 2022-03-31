@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "stdlib.h": "c",
+    "ctype.h": "c",
+    "in.h": "c",
+    "movie_service.h": "c",
+    "pseudo_http.h": "c",
+    "server.h": "c",
+    "response.h": "c",
+    "request.h": "c",
+    "movie.h": "c",
+    "stdio.h": "c",
+    "common.h": "c",
+    "movie_txt_repository.h": "c",
+    "string.h": "c"
+  }
+}
